@@ -6,4 +6,4 @@ I keep my own projects at:
 ## Contact
  - Fediverse: [@snaki@girldick.gay](https://girldick.gay/@snaki)
  - Matrix: [@snaki:kescher.at](https://matrix.to/#/@snaki:kescher.at)
- - Mail: git@kyouma.net
+ - Mail: gh@kyouma.net
