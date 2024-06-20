@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm emily
 
 I keep my own projects at:
- - https://git.bsd.gay/snaki — this git is offline most of the time and I'm currently searching for an alternative
+ - https://woof.rip/emily – main instance
+ - https://git.bsd.gay/snaki — not in use anymore because of unreliability
 
 ## Contact
  - Fediverse: [@snaki@girldick.gay](https://girldick.gay/@snaki)
